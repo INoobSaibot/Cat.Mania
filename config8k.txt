@@ -1,0 +1,8 @@
+key1=65
+key2=83
+key3=87
+key4=68
+key5=37
+key6=40
+key7=38
+key8=39
